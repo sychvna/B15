@@ -34,25 +34,25 @@ body {
 }
 
 .bilet {
-
+    font-size: 24px;
     color: #5A93BE;
     padding-top: 30px;
 }
 
 .cabb {
     color: #5A93BE;
-
+font-size: 24px;
     padding-top: 30px;
 }
 
 .bot {
     position: relative;
+    margin-top: 15px;
 }
 
 .burger {
     width: 75px;
     height: 40px;
-    margin-right: 45px;
 }
 
 .menu .bot:not(:first-child) {
@@ -109,12 +109,13 @@ margin-right: 45px;
 }
 
 .button {
-    color: #ffffff !important;
+    color: #ffffff;
     background-color: #5A93BE;
     width: 380px;
     height: 100px;
     border-radius: 50px;
     transition: 0.5s;
+    margin-top: 71px;
 }
 
 .button:hover {
@@ -132,7 +133,7 @@ margin-right: 45px;
 }
 
 .cruiz {
-    padding: 61px 57px 62px 58px;
+    padding: 61px 57px 0px 58px;
 }
 
 .poisk {
@@ -220,6 +221,7 @@ margin-right: 45px;
     justify-content: space-between;
     display: flex;
     padding-left: 123px;
+    margin-top: 40px;
 }
 
 .space_bet {
